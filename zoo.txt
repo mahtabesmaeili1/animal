@@ -1,3 +1,5 @@
 bird
 tiger
-sneak
+snake
+lion
+butterfly
